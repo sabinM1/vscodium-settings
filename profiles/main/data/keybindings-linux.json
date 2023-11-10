@@ -1,0 +1,53 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+	{
+		"key": "alt+up",
+		"command": "list.scrollUp",
+		"when": "listFocus && !inputFocus"
+	},
+	{
+		"key": "ctrl+up",
+		"command": "-list.scrollUp",
+		"when": "listFocus && !inputFocus"
+	},
+	{
+		"key": "alt+up",
+		"command": "scrollLineUp",
+		"when": "textInputFocus"
+	},
+	{
+		"key": "ctrl+up",
+		"command": "-scrollLineUp",
+		"when": "textInputFocus"
+	},
+	{
+		"key": "ctrl+up",
+		"command": "editor.action.moveLinesUpAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "alt+up",
+		"command": "-editor.action.moveLinesUpAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "alt+down",
+		"command": "list.scrollDown",
+		"when": "listFocus && !inputFocus"
+	},
+	{
+		"key": "ctrl+down",
+		"command": "-list.scrollDown",
+		"when": "listFocus && !inputFocus"
+	},
+	{
+		"key": "ctrl+down",
+		"command": "editor.action.moveLinesDownAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "alt+down",
+		"command": "-editor.action.moveLinesDownAction",
+		"when": "editorTextFocus && !editorReadonly"
+	}
+]

@@ -1,0 +1,48 @@
+{
+    "workbench.colorTheme": "Monokai Night",
+    "editor.fontSize": 16,
+    "files.autoSave": "onWindowChange",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.insertSpaces": false,
+    "editor.tabCompletion": "on",
+    "editor.minimap.autohide": true,
+    "clang-tidy.lintOnSave": false,
+    "clang-format.language.cuda.enable": false,
+    "clang-format.language.glsl.enable": false,
+    "clang-format.language.java.enable": false,
+    "clang-format.language.javascript.enable": false,
+    "clang-format.language.objective-c.enable": false,
+    "clang-format.language.objective-cpp.enable": false,
+    "clang-format.language.proto.enable": false,
+    "clang-format.language.typescript.enable": false,
+    "editor.formatOnSave": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "clang-format.language.cpp.style": "google",
+    "editor.unusualLineTerminators": "auto",
+    "debug.onTaskErrors": "showErrors",
+    "github.copilot.advanced": {},
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "debugVisualizer.debugAdapterConfigurations": {},
+    "editor.renderWhitespace": "none",
+    "editor.mouseWheelZoom": true,
+    "editor.cursorStyle": "line-thin",
+    "vscord.app.name": "VSCodium",
+    "vscord.status.details.enabled": false,
+    "vscord.status.problems.enabled": false,
+    "vscord.ignore.gitHosts": [
+        "github.io",
+        "github.com"
+    ],
+    "hexeditor.columnWidth": 16,
+    "hexeditor.showDecodedText": true,
+    "hexeditor.defaultEndianness": "little",
+    "hexeditor.inspectorType": "aside"
+}

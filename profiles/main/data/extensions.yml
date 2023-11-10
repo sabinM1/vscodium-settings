@@ -1,0 +1,50 @@
+disabled:
+  - id: icrawl.discord-vscode
+    uuid: 2bbe1392-1ad3-4f59-82bc-fccaa3afc3a5
+enabled:
+  - id: fabiospampinato.vscode-monokai-night
+    uuid: 99bb71cc-b8a5-43bf-b6a8-371f9f0f4ca3
+  - id: hediet.debug-visualizer
+    uuid: bce78737-8848-49f7-a27d-97004928fe41
+  - id: hediet.realtime-debugging
+    uuid: bbde1141-588d-44ae-a3a8-393d3a3a4826
+  - id: joedevivo.vscode-circuitpython
+    uuid: d5e29b33-a9f7-478b-9227-d829c14c5660
+  - id: LeonardSSH.vscord
+    uuid: 20675c06-f272-4cc8-8611-83ebb5583c5a
+  - id: medo64.render-crlf
+    uuid: a5d8b25c-27b8-421d-a8b0-1681827909b9
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
+  - id: ms-vscode.cpptools
+    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: ms-vscode.cpptools-extension-pack
+    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: ms-vscode.hexeditor
+    uuid: cc7d2112-5178-4472-8e0e-25dced95e7f0
+  - id: pdconsec.vscode-print
+    uuid: 05046d70-8146-42f5-ac9e-b97b37c8c0ef
+  - id: pepri.subtitles-editor
+    uuid: 04738eb6-00d0-4791-a5ae-09d789fa2a62
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: tomoki1207.pdf
+    uuid: 4386e6f6-ec10-4463-9d23-c24278718947
+  - id: twxs.cmake
+    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
+  - id: VisualStudioExptTeam.intellicode-api-usage-examples
+    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
+  - id: xaver.clang-format
+    uuid: 04208f17-8aed-4d49-b0a2-fbce829efbeb
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
